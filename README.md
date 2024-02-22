@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Web3Kemal&theme=matrix" alt="Web3Kemal" /></a> </p>
 
+- 🤝 I’m open for new web3 opportinities in **DeFi, Memecoins, Security**
 - 🔭 I’m currently working on **Memecoins you've probably heard of**
 - 👯 I’m looking to collaborate on **crypto development**
-- 🤝 I’m looking for help with **some projects I'm building**
 - 🌱 I’m currently learning **DeFi protocols, web3 security, best practices in Solidity and advanced React**
 
 - 📫 How to reach me **https://web3kemal.com/**
